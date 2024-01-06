@@ -3,7 +3,7 @@
 
 The 1-order, 2-order, and 3-order datasets used in the experiment are built based on the application invoked API, for example, there is a application, and its invoked API is shown in the following table
 
-Mashup| invoked API
+application| invoked API
 -------- | -----
 LocEight DATA| Flickr, Google AdWords, Google Maps, GeoNames
 
